@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-switch",
+  "version": "1.0.0",
+  "description": "Homebridge plugin to control a wall switch",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": {
+    "name": "Achim Pieters <info@studiopieters.nl>"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AchimPieters/HomeBridge-Switch.git"
+  },
+  "dependencies": {
+    "sync-request": "^2.1.0"
+  }
+}
