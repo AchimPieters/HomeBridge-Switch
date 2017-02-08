@@ -21,7 +21,7 @@ Configuration sample:
         {
             "accessory": "HTTP-SWITCH",
             "name": "Living Room switch",
-            "url": "http://192.168.1.210/button",
+            "url": "http://192.168.1.210/switch",
             "default_state_off": true, 
             "sendimmediately": "",
             "http_method": "GET"
